@@ -1,7 +1,7 @@
 <!-- Title with animation -->
 <h1 align="center">Hi 👋, I'm Manthan Bambhaniya</h1>
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=2500&pause=1000&center=true&vCenter=true&width=435&lines=A+Passionate+Full-Stack+Developer;Specializing+in+MERN+Stack+and+App+Development" alt="Typing SVG" />
+  A Passionate Full-Stack Developer <br /> Specializing in MERN Stack and Application Development
 </h3>
 
 <!-- Badges/Tech Stack Icons -->
@@ -19,66 +19,58 @@
 
 ---
 
-<!-- Intro Section with animated bullet points -->
+<!-- Intro Section -->
 - 🔭 I’m currently working on **Beliance Web Projects** and building cutting-edge web solutions.
 - 🌱 I’m currently learning **AI & ML** to enhance my development skills.
 - 👯 I’m looking to collaborate on **open-source projects** related to MERN Stack and Full-Stack Development.
 - 💬 Ask me about **MERN Stack, Full-Stack Development, E-commerce Solutions, and App Development**.
-- 📫 How to reach me: [manthan.bambhaniya@example.com](mailto:manthan.bambhaniya@example.com)
+- 📫 How to reach me: [manthanbam7@gmail.com](mailto:manthanbam7@gmail.com)
 - ⚡ Fun fact: I love solving puzzles and building efficient tech solutions.
 
 ---
 
-<!-- GitHub Stats with animation -->
+<!-- GitHub Stats -->
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manthanbambhaniya&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true&border_radius=15" alt="Manthan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=manthanbambhaniya&show_icons=true&theme=tokyonight&count_private=true" alt="Manthan's GitHub Stats" />
 </p>
 
-<!-- Most Used Languages with animation -->
+<!-- Most Used Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manthanbambhaniya&layout=compact&theme=tokyonight&border_radius=15&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manthanbambhaniya&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
-<!-- Skills Section with icons animation -->
+<!-- Skills Section -->
 <h3 align="center">🚀 My Skills</h3>
 <p align="center">
   <a href="https://reactjs.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   </a>
-  <a href="https://nodejs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
+  <a href="https://nodejs.org" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   </a>
   <a href="https://www.mongodb.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
   </a>
   <a href="https://expressjs.com" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
   </a>
   <a href="https://www.shopify.com/" target="_blank"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/shopify.svg" alt="shopify" width="40" height="40" />
+    <img src="https://cdn.worldvectorlogo.com/logos/shopify.svg" alt="shopify" width="40" height="40"/>
   </a>
   <a href="https://flutter.dev/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" />
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
   </a>
   <a href="https://www.php.net/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
   </a>
 </p>
 
 ---
 
-<!-- Contribution Graph with animation -->
-<h3 align="center">📈 Contribution Graph</h3>
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=manthanbambhaniya&theme=react-dark" alt="Contribution Graph" />
-</p>
-
----
-
-<!-- Footer Message with animated waving hand -->
+<!-- Footer Message -->
 <p align="center">
   🚀 Always looking to innovate and create impactful digital solutions! Let's connect and build something awesome.
 </p>
